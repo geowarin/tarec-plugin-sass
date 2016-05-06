@@ -1,0 +1,13 @@
+{
+  "name": "tarec-plugin-sass",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^3.7.0",
+    "sass-loader": "^3.2.0"
+  }
+}
